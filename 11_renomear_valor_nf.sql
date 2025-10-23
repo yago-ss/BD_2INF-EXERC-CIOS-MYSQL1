@@ -1,0 +1,1 @@
+ALTER TABLE Nota_Fiscal CHANGE Valor_NF ValorTotal_NF FLOAT;
