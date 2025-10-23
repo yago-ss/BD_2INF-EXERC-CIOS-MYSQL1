@@ -1,0 +1,1 @@
+ALTER TABLE Nota_Fiscal ADD ICMS FLOAT AFTER Numero_NF;
