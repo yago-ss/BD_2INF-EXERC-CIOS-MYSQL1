@@ -1,1 +1,0 @@
-DESCRIBE Nota_Fiscal;
